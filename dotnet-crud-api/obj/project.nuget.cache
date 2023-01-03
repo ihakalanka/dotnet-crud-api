@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+kF3W80nSnWc7B9hs2U8kUc/cFL9ETuSIVzjCkiozBY9tC0n2XiNW7Fjl4karzCip7mS4q2ABxuZ+lbmK2004Q==",
+  "success": true,
+  "projectFilePath": "D:\\New folder (3)\\dot net\\dotnet-crud-api\\dotnet-crud-api\\dotnet-crud-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akala\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\akala\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\akala\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\akala\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\akala\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\akala\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
